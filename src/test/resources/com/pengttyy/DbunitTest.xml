@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dataset>
-    <usergroup name="admin"/>
-    <user userName="jdoe" name="doe" firstname="john" userGroup="admin"/>
-
-    <usergroup name="sales"/>
-    <user userName="smith" name="smith" userGroup="sales"/>
-</ dataet>
+    <USERS USERNAME="jdoe" FIRST_NAME="doe" LAST_NAME="john"/>
+    <USERS USERNAME="smith" FIRST_NAME="smith" LAST_NAME="sales"/>
+</dataset>
