@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<dataset>
-    <USERS USERNAME="jdoe" FIRST_NAME="doe" LAST_NAME="john"/>
-    <USERS USERNAME="smith" FIRST_NAME="smith" LAST_NAME="sales"/>
-</dataset>
